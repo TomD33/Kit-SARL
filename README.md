@@ -7,9 +7,7 @@ Notre groupe est composé de :
   - Aubineau Alexis
   
   
-  Plan d'action dans ce projet nous l'avons représenté en type **RACI**.
-  
-![Capture du 2018-06-07 18-42-48.png](#file:40ef4f0f-9c7a-7f34-a492-afdf5735eeb6) :  
+  Plan d'action dans ce projet nous l'avons représenté en type **RACI** :
   R : - Responsable
   A : - Acteur
   C : - Consulté
