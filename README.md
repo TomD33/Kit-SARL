@@ -2,7 +2,7 @@
 
 Notre groupe est composé de :
   - Maurin Thomas
-  - Lafon Arnauf
+  - Lafon Arnaud
   - Duval Thomas
   - Aubineau Alexis
   
